@@ -78,9 +78,9 @@ const Footer = () => {
             </ul>
             <ul className="space-y-3">
               {[
-                                'Social Media Management',  
+                'Social Media Management',  
                 'Chatbots',
-                'CRM',
+                'CRH',
                 'Graphic Design',
 
               ].map((service) => (
